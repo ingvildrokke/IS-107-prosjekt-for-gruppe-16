@@ -2,4 +2,4 @@
 //2: skrive ut det som blir skrevet i det underste tekst feltet.
 
 Hei <?php echo htmlspecialchars($_POST['name']); ?> :).
-Yndlingsfaget ditt er: <?php echo (int)$_POST['age']; ?> 
+Yndlingsfaget ditt er: <?php echo (int)$_POST['subject']; ?> 
