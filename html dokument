@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Gruppe 16</title>
+<link href="" rel="stylesheet" type="text/css">
+</head>
+<body>
+<underline><h1>Utdanningshjelpen for UIA</h1></underline>
+<form action="action.php" method="post">
+ <p> Navn: <input type="text" name="name" /></p>
+ <p>Yndlingsfag: <input type="text" name="age" /></p>
+ <p><input type="submit" /></p>
+ 
+</form>
+</body>
+</html>
